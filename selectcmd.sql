@@ -1,0 +1,1 @@
+SELECT * FROM db.table WHERE filename = 'test.txt'
